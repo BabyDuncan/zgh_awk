@@ -1,4 +1,4 @@
-awkLearning
+the usage of awk
 ===========
 
-学习awk以及awk的一些文章
+something about awk : usage and research and papers
